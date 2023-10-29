@@ -13,10 +13,14 @@ Our project aims to address the issue of underdiagnosis and improve the early de
 
 The system takes Magnetic Resonance Imaging (MRI) images as input and classifies them into one of four classes:
 
-Non-Demented
-Moderate Demented
-Mild Demented
-Very Mild Demented
+-Non-Demented
+-Moderate Demented
+-Mild Demented
+-Very Mild Demented
+
+# Dataset 
+
+Data was obtained from the open source Kaggle dataset titled " Augmented Alzheimer MRI Dataset". Link: https://www.kaggle.com/datasets/uraninjo augmented-alzheimer-mri-dataset
 
 
 # Federated Learning:
